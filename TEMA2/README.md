@@ -47,3 +47,9 @@ Utilizați **debouncing** și **întreruperi** pentru gestionarea apăsărilor b
 7. O greșeală face LED-ul să devină roșu. Pentru a corecta cuvântul, se va folosi tasta **BackSpace**.
 8. După 30 de secunde, runda se termină, iar în terminal se va afișa scorul: numărul total de cuvinte scrise corect.
 9. Jocul se poate opri oricând cu butonul de start/stop.
+
+POZA CU MONTAJUL:
+![WhatsApp Image 2024-11-03 at 21 09 22_9ffafd4f](https://github.com/user-attachments/assets/b071896d-4bd2-4fb6-9116-dd5e775c2c3a)
+
+VIDEO FUNCTIONALITATE MONTAJ:
+https://github.com/user-attachments/assets/1596bb18-f00f-479f-ae7d-544c08f1b776
